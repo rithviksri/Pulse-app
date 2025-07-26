@@ -11,8 +11,8 @@
 [Hyperlink to Project](https://final-project-team-17-39jo.vercel.app/login)
 
 **DEMO CREDENTIALS:**  
-**Username:** `rithvik@rithvik.com`  
-**Password:** `rithvik`
+**Username:** `sophia@sophia.com`  
+**Password:** `sophia`
 
 ## Video Demo
 Click the thumbnail to see a demo of Pulse
