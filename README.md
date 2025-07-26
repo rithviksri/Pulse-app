@@ -8,11 +8,11 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
-[Access the app here](https://final-project-team-17-39jo.vercel.app/login)
+[Hyperlink to Project](https://final-project-team-17-39jo.vercel.app/login)
 
 **DEMO CREDENTIALS:**  
-**Username:** `sophia@sophia.com`  
-**Password:** `sophia`
+**Username:** `rithvik@rithvik.com`  
+**Password:** `rithvik`
 
 ## Video Demo
 Click the thumbnail to see a demo of Pulse
